@@ -1,3 +1,7 @@
+## Hello there, I'm Ian 
+#### Welcome to my GitHub Account 
+##### I am Ian Christopher, a Computer Engineering Student
+
 - 👋 Hi, I’m @iankristoper
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
