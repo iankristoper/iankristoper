@@ -18,11 +18,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<div style="text-align:center;">
+<p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=iankristoper&icon=1&color=12" alt="Visit Count">
   </a>
-</div>
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
