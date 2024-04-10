@@ -16,18 +16,18 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td style="width: 50%;">
+      <h3>🔝 Top Contributed Repo</h3>
+      <img src="https://github-contributor-stats.vercel.app/api?username=iankristoper&limit=5&theme=flat&combine_all_yearly_contributions=true" style="max-width: 100%;">
+    </td>
+    <td style="width: 50%;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false" width="600" style="max-width: 100%;" align="center" alt="GitHub Streak Stats">
+    </td>
+  </tr>
+</table>
 
-
-
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false" width="600" align="center" alt="GitHub Streak Stats">
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=iankristoper&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ---
 <p align="center">
