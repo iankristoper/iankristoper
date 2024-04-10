@@ -6,9 +6,10 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
 
 ### 📊 GitHub Stats:
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false" width="400" height="210" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" height="200" >
+  <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="200">
 </div>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false" width="600" align="center" alt="GitHub Streak Stats">
 
