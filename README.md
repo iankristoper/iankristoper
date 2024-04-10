@@ -1,5 +1,4 @@
-## Hello there, I'm Ian ![Waving Hand Medium-Light Skin Tone](https://github.com/iankristoper/iankristoper/assets/148238601/b7d35718-1e2b-412e-ad51-b49c2ccdde19)
-
+## Hello there, I'm Ian
 I am a passionate Computer Engineering Student, I love to learn something new every day. Whether it's diving into the intricacies of algorithms, exploring the latest technologies, or delving into the world of software development, I find joy in expanding my knowledge and honing my skills.
 
 ### Things I used to code:
@@ -7,11 +6,12 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iankristoper&limit=5&theme=flat&combine_all_yearly_contributions=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
