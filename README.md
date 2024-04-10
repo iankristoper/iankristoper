@@ -7,8 +7,10 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
 ### 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false" width="400" align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false" width="1000" height="600" alt="GitHub Streak Stats">
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=iankristoper&limit=5&theme=flat&combine_all_yearly_contributions=true)
