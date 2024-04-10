@@ -6,13 +6,14 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <div style="display: inline-block;">
+  <div style="display: inline-block; width: 50%;">
     <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false" style="max-width: 100%; height: 200px;">
   </div>
-  <div style="display: inline-block;">
+  <div style="display: inline-block; width: 50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%; height: 200px;">
   </div>
 </div>
+
 
 
 
