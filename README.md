@@ -28,7 +28,8 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
   </tr>
 </table>
 
-
+---
+### Things I like to do:
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
