@@ -23,7 +23,7 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
       <img src="https://github-contributor-stats.vercel.app/api?username=iankristoper&limit=5&theme=flat&combine_all_yearly_contributions=true" style="max-width: 100%;">
     </td>
     <td style="width: 50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false" width="460" style="max-width: 100%;" align="center" alt="GitHub Streak Stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false" width="462" style="max-width: 100%;" align="center" alt="GitHub Streak Stats">
     </td>
   </tr>
 </table>
