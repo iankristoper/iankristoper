@@ -1,4 +1,5 @@
-## Hello there, I'm Ian 
+## Hello there, I'm Ian ![Waving Hand Medium-Light Skin Tone](https://github.com/iankristoper/iankristoper/assets/148238601/b7d35718-1e2b-412e-ad51-b49c2ccdde19)
+
 I am a passionate Computer Engineering Student, I love to learn something new every day. Whether it's diving into the intricacies of algorithms, exploring the latest technologies, or delving into the world of software development, I find joy in expanding my knowledge and honing my skills.
 
 ### Things I used to code:
