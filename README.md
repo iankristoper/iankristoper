@@ -6,21 +6,37 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false" style="max-width: 100%; height: auto;">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%; height: auto;">
+  <div style="width: 100%; overflow-x: auto;">
+    <table style="width: 100%;">
+      <tr>
+        <td style="width: 50%;">
+          <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false" style="max-width: 100%; height: 200px;">
+        </td>
+        <td style="width: 50%;">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%; height: 200px;">
+        </td>
+      </tr>
+    </table>
+  </div>
 </div>
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <div style="width: 50%; display: inline-block;">
-    <h3>🔝 Top Contributed Repo</h3>
-    <img src="https://github-contributor-stats.vercel.app/api?username=iankristoper&limit=5&theme=flat&combine_all_yearly_contributions=true" style="max-width: 100%;">
-  </div>
-  <div style="width: 50%; display: inline-block;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false" width="487" style="max-width: 100%;" align="center" alt="GitHub Streak Stats">
+  <div style="width: 100%; overflow-x: auto;">
+    <table style="width: 100%;">
+      <tr>
+        <td style="width: 50%;">
+          <h3>🔝 Top Contributed Repo</h3>
+          <img src="https://github-contributor-stats.vercel.app/api?username=iankristoper&limit=5&theme=flat&combine_all_yearly_contributions=true" style="max-width: 100%;">
+        </td>
+        <td style="width: 50%;">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false" style="max-width: 100%;" align="center" alt="GitHub Streak Stats">
+        </td>
+      </tr>
+    </table>
   </div>
 </div>
+
 
 
 
