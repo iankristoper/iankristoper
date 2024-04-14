@@ -34,6 +34,8 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
 
 ---
 ### Things I'm currently working and learning:
+- Java programming language, focusing on object-oriented principles and application development.
+- Project Design in Computer Engineering - Thesis
 
 ---
 ### Things I like to do:
