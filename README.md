@@ -39,6 +39,12 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
 
 ---
 ### Things I like to do:
+- Reading books on technology, manga, and slice of life.
+- Exploring new coding techniques and solving coding challenges.
+- Planting bonsai and spending time with nature.
+- Watching movies and TV shows, especially sci-fi and action genres.
+- Engaging in outdoor sports like basketball.
+- Volunteering for community service projects and giving back to society.
 ---
 <p align="center">
   <a href="https://visitcount.itsvg.in">
