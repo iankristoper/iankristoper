@@ -1,4 +1,4 @@
-## Hello there, I'm Ian     
+## Hello there, I'm Ian      
 I am a passionate Computer Engineering Student, I love to learn something new every day. Whether it's diving into the intricacies of algorithms, exploring the latest technologies, or delving into the world of software development, I find joy in expanding my knowledge and honing my skills.
 
 ### Things I used to code:
