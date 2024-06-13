@@ -16,7 +16,7 @@ I am a passionate Computer Engineering Student, I love to learn something new ev
     </td>
   </tr>
 </table>
-
+  
 <table align="center">
   <tr>
     <td style="width: 50%;">
