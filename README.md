@@ -36,6 +36,8 @@ I am a passionate fresh graduate Computer Engineer, I love to learn something ne
 ### Things I'm currently working and learning:
 - Java programming language, focusing on object-oriented principles and application development.
 - Project Design in Computer Engineering - Thesis (DONE)
+- JAVA SE
+- JAVA EE
 
 ---
 ### Things I like to do:
