@@ -1,5 +1,5 @@
 ## Hello, I'm Ian                                       
-A passionate fresh graduate Computer Engineer, I love to learn something new every day. Whether it's diving into the intricacies of algorithms, exploring the latest technologies, or delving into the world of software development, I find joy in expanding my knowledge and honing my skills.  
+A passionate fresh graduate Computer Engineer, Loved to learn something new every day. Whether it's diving into the intricacies of algorithms, exploring the latest technologies, or delving into the world of software development, I find joy in expanding my knowledge and honing my skills.  
  
 ### Things I used to code: 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
