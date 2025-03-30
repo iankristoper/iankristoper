@@ -11,7 +11,7 @@ Loved to learn something new every day. Whether it's diving into the intricacies
     <td style="width: 30%;">
       <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false" style="max-width: 20%; height: 200px;">
     </td>
-    <td style="width: 50%;">
+    <td style="width: 200%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width: 50%; height: 200px;">
     </td>
   </tr>
