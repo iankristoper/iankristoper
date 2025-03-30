@@ -9,7 +9,7 @@ Loved to learn something new every day. Whether it's diving into the intricacies
 <table align="center">
   <tr>
     <td style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false" style="max-width: 85%; height: 200px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false" style="max-width: 70%; height: 200px;">
     </td>
     <td style="width: 50%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width: 100%; height: 200px;">
