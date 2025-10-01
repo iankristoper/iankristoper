@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ian  
+# Hello, I'm Ian  
 
 🌱 A passionate learner who loves exploring technology, solving problems, and building meaningful projects.  
 💻 Currently diving deep into **Java (SE & EE)**, backend development, and software engineering principles.  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
@@ -16,7 +16,7 @@
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" height="160"/>
@@ -28,25 +28,12 @@
 
 ---
 
-## 🔥 Currently Learning  
-- Java SE & EE (Backend development)  
-- Object-Oriented Programming (OOP) principles  
-- Spring Framework & modern backend practices  
-
----
-
-## 🎯 Beyond Code  
-🌿 Bonsai & nature enthusiast  
-📚 Love reading tech books, manga, and slice-of-life stories  
-🏀 Basketball and outdoor sports  
-🎬 Big fan of sci-fi & action movies  
-🤝 Volunteering for community projects  
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=iankristoper&icon=5&color=12" alt="Profile Views"/>
-</p>
+## Beyond Code  
+Bonsai & nature enthusiast  
+Love reading tech books, manga, and slice-of-life stories  
+Basketball and outdoor sports  
+Big fan of sci-fi & action movies  
+Volunteering for community projects  
 
 ---
 ✨ *“Learning never exhausts the mind — it fuels it.”*  
