@@ -1,59 +1,52 @@
-## Hello, I'm Ian                                                  
-Loved to learn something new every day. Whether it's diving into the intricacies of algorithms, exploring the latest technologies, or delving into the world of software development, I find joy in expanding my knowledge and honing my skills.  
- 
-### Things I used to code: 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+# 👋 Hello, I'm Ian  
 
-
-### 📊 GitHub Stats:
-<table align="center">
-  <tr>
-    <td style="width: 30%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false" style="max-width: 20%; height: 200px;">
-    </td>
-    <td style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="max-width: 50%; height: 200px;">
-    </td>
-  </tr>
-</table>
-  
-<table align="center">
-  <tr>
-    <td style="width: 50%;">
-       <h3>🔝 Top Contributed Repo</h3>
-      <img src="https://github-contributor-stats.vercel.app/api?username=iankristoper&limit=5&theme=flat&combine_all_yearly_contributions=true" style="max-width: 100%;">
-    </td>
-    <td style="width: 50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=default&hide_border=false" width="487" style="max-width: 100%;" align="center" alt="GitHub Streak Stats">
-    </td>
-  </tr>
-</table>
-
-
-
+🌱 A passionate learner who loves exploring technology, solving problems, and building meaningful projects.  
+💻 Currently diving deep into **Java (SE & EE)**, backend development, and software engineering principles.  
+✨ Always curious, always learning.  
 
 ---
-### Things I'm currently working and learning:
-- Java programming language, focusing on object-oriented principles and application development.
-- JAVA SE
-- JAVA EE
+
+## 🚀 Tech Stack  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 
 ---
-### Things I like to do:
-- Reading books on technology, manga, and slice of life.
-- Exploring new coding techniques and solving coding challenges.
-- Planting bonsai and spending time with nature.
-- Watching movies and TV shows, especially sci-fi and action genres.
-- Engaging in outdoor sports like basketball.
-- Volunteering for community service projects and giving back to society.
----
+
+## 📊 GitHub Stats  
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=iankristoper&icon=1&color=12" alt="Visit Count">
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=tokyonight" height="160"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
 
+## 🔥 Currently Learning  
+- Java SE & EE (Backend development)  
+- Object-Oriented Programming (OOP) principles  
+- Spring Framework & modern backend practices  
 
+---
+
+## 🎯 Beyond Code  
+🌿 Bonsai & nature enthusiast  
+📚 Love reading tech books, manga, and slice-of-life stories  
+🏀 Basketball and outdoor sports  
+🎬 Big fan of sci-fi & action movies  
+🤝 Volunteering for community projects  
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=iankristoper&icon=5&color=12" alt="Profile Views"/>
+</p>
+
+---
+✨ *“Learning never exhausts the mind — it fuels it.”*  
