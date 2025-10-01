@@ -6,7 +6,7 @@
 
 ---
 
-## Stats  
+## Statistics  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" height="160"/>
@@ -26,4 +26,9 @@
 - Volunteering for community projects  
 
 ---
-✨ *“Learning never exhausts the mind — it fuels it.”*  
+---
+
+<p align="center">
+  ✨ <i>“Learning never exhausts the mind — it fuels it.”</i> ✨
+</p>
+
