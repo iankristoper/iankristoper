@@ -8,14 +8,22 @@
 
 ## 📊 Statistics  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" height="160"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" height="160"/>  
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" height="160"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" height="160"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=tokyonight" height="160"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=tokyonight" height="160"/>  
-</p>
 
 
 ---
