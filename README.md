@@ -3,6 +3,7 @@
 🌱 A passionate learner who loves exploring technology, solving problems, and building meaningful projects.  
 💻 Currently diving deep into **Java (SE & EE)**, backend development, and software engineering principles.  
 ✨ Always curious, always learning.  
+
 ---
 
 ## Stats  
