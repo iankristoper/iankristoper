@@ -7,9 +7,8 @@
 ---
 
 ## 🚀 Tech Stack (Dynamic)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iankristoper&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iankristoper&theme=tokyonight)
 
 
 ---
