@@ -5,22 +5,13 @@
 ✨ Always curious, always learning.  
 
 ---
-## Statistics  
+## 📊 Statistics  
 
-<table width="100%">
-  <tr>
-    <td align="left" width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" 
-        height="200" width="400"/>
-    </td>
-    <td align="right" width="50%">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" 
-        height="200" width="330"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iankristoper&theme=tokyonight&utcOffset=8" height="160"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iankristoper&theme=tokyonight" height="160"/>
+</p>
+
 
 
 
