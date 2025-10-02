@@ -18,7 +18,7 @@
 
 ---
 
-## Beyond Code  
+### Beyond Code  
 - Bonsai & nature enthusiast  
 - Love reading tech books, manga, and slice-of-life stories  
 - Basketball and outdoor sports  
