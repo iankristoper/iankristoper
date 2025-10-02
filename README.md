@@ -5,7 +5,6 @@
 ✨ Always curious, always learning.  
 
 ---
-
 ## 📊 Statistics  
 
 <table align="center">
@@ -22,10 +21,11 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=tokyonight" height="160" width="300"/>
     </td>
     <td>
-      <img src="https://github-profile-trophy.vercel.app/?username=iankristoper&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=3" height="160" width="300"/>
+      <img src="https://github-contributor-stats.vercel.app/api?username=iankristoper&limit=5&theme=tokyonight" height="160" width="300"/>
     </td>
   </tr>
 </table>
+
 
 
 
