@@ -12,7 +12,7 @@
     <td align="left" width="50%">
       <img 
         src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" 
-        height="200" width="400"/>
+        height="200" width="500"/>
     </td>
     <td align="right" width="50%">
       <img 
