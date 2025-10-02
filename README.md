@@ -18,11 +18,15 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=tokyonight" height="160"/>
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=iankristoper&theme=tokyonight&row=1&column=3" height="160"/>
     </td>
   </tr>
 </table>
+
 
 
 
