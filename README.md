@@ -7,17 +7,21 @@
 ---
 ## Statistics  
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" 
+        height="200" width="400"/>
+    </td>
+    <td align="right" width="50%">
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" 
+        height="200" width="400"/>
+    </td>
+  </tr>
+</table>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" 
-    height="200" width="400"/>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" 
-    height="200" width="400"/>
-
-</div>
 
 
 
