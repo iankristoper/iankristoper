@@ -13,7 +13,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" height="200" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" height="180" width="400"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" height="170" width="400"/>
     </td>
   </tr>
 </table>
