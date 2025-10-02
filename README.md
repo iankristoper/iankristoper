@@ -5,7 +5,7 @@
 ✨ Always curious, always learning.  
 
 ---
-## 📊 Statistics  
+### Statistics  
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iankristoper&theme=tokyonight&utcOffset=8" height="160"/>
