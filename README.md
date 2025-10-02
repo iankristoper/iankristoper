@@ -7,24 +7,11 @@
 ---
 ## 📊 Statistics  
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" height="160" width="300"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" height="160" width="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iankristoper&theme=tokyonight" height="160" width="300"/>
-    </td>
-    <td>
-      <img src="https://github-contributor-stats.vercel.app/api?username=iankristoper&limit=5&theme=tokyonight" height="160" width="300"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iankristoper&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankristoper&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
 
 
 
