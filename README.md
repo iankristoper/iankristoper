@@ -22,7 +22,7 @@
 - Bonsai & nature enthusiast  
 - Love reading tech books, manga, and slice-of-life stories  
 - Basketball and outdoor sports  
-- Big fan of sci-fi & action movies  
+- Big fan of listening JPop music.
 - Volunteering for community projects  
 
 ---
